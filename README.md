@@ -1,1 +1,3 @@
 # dtu-mlops
+git status
+
